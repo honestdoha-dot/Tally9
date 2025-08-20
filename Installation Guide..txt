@@ -1,0 +1,68 @@
+How To install Software.
+
+
+
+
+**this guide is for Tally ERP Crack installation. You can use these steps for Tally Prime Crack installation as well as (if you have Tally Prime).
+
+
+
+Step 1 --> Download the Tally Software from tallyprimecrack.in
+
+Step 2 --> Goto Windows Settings > Virus and Threat Protection and click on Manage Settings under Virus and Threat Protection Settings.
+
+
+Step 3 --> Now Scroll down and click on add or remove exclusion.
+
+Step 4 --> Click on "Add an exclusion" and then click on Folder.
+
+Step 5 --> Now Create a folder where you want to extract the downloaded file, we need to use this exclusion method because the Windows Defender will regard our crack as a virus and will not allow us to install it so we make an exclusion to the Defender.
+
+Step 6 --> After Creating a folder, now select that folder in the exclusion list.
+
+Step 7 --> Now extract the downloaded file to the exclusion folder.
+
+Step 8 --> Now open the extracted folder and click on Setup.exe
+
+Step 9 --> Click Next
+
+Step 10 --> Choose where to install Tally ERP9 (I created a folder named Tally ERP9 and set the installation directory to that folder.) and then click on Next.
+
+Step 11 --> Click on Install
+
+Step 12 --> Once the Installation is complete click on Finish.
+
+**Note : We have succesfully installed Tally ERP9 on your Windows. Now it's time to crack the installed software.
+
+Step 13 --> Open the Exlusion Folder, then open the Cracked Folder and copy the tally.exe file
+
+Step 14 --> Now go to the Tally ERP9 installation Directory (i.e. The place where you installed Tally ERP9)
+
+** For those who don't know where is Tally ERP9 installed on their system can go to the installation directory by right clicking on the Tally ERP9 icon and clicking on open file location.
+
+Step 15 --> Add the Tally ERP9 file to the Exclusion list in the Virus and Threat Protection.
+
+Step 16 --> Now paste the tally.exe file (that you copied from the exclusion folder) in the Tally ERP9 installation directory.
+
+Click on Replace the file in the destination folder.
+
+Step 17 --> Now run the Tally ERP9 from the desktop or the application menu (Run as Administrator). Click on Allow Access
+
+Step 18 --> Let's proceed towards the Activation of Tally, press 'A' and hit enter.
+
+Step 19 --> Hit enter again.
+
+Step 20 --> Now enter random data into the Serial Number, Activation Key and the Email id of the Administrator and hit enter.
+
+You will see a message box like this.
+
+
+Step 21 --> Exit Tally ERP9 by pressing Esc button on you keyboard and when prompted yes or no for quitting then press 'y' on your keyboard.
+
+Step 22 --> Now open the Tally ERP9 installation directory. You will see a file named "tally_req.lic".
+
+Step 23 --> Rename "tally_req.lic" to "tally.lic"
+
+Steo 24 --> Open your Tally ERP9 from Desktop or Applications Menu, you will be able to work on Tally now with all the paid features.
+
+Hoorah!! Tally ERP9 is succesfully cracked and is ready to use.
